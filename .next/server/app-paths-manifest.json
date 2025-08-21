@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/auth/callback/route": "app/api/auth/callback/route.js",
+  "/api/auth/google/redirect_url/route": "app/api/auth/google/redirect_url/route.js",
+  "/api/auth/logout/route": "app/api/auth/logout/route.js",
+  "/api/auth/me/route": "app/api/auth/me/route.js",
+  "/api/rides/route": "app/api/rides/route.js",
+  "/api/strava/auth-url/route": "app/api/strava/auth-url/route.js",
+  "/api/strava/callback/route": "app/api/strava/callback/route.js",
+  "/api/user/profile/route": "app/api/user/profile/route.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/page": "app/page.js"
+}
